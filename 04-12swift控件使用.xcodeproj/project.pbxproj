@@ -7,6 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18592F011CC0E6F400D464C8 /* 58*58.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EE61CC0E6F400D464C8 /* 58*58.png */; };
+		18592F021CC0E6F400D464C8 /* 80*80.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EE71CC0E6F400D464C8 /* 80*80.png */; };
+		18592F031CC0E6F400D464C8 /* 120*120.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EE81CC0E6F400D464C8 /* 120*120.png */; };
+		18592F041CC0E6F400D464C8 /* 180*180.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EE91CC0E6F400D464C8 /* 180*180.png */; };
+		18592F051CC0E6F400D464C8 /* 640*960.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EEA1CC0E6F400D464C8 /* 640*960.png */; };
+		18592F061CC0E6F400D464C8 /* 640*1136.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EEB1CC0E6F400D464C8 /* 640*1136.png */; };
+		18592F071CC0E6F400D464C8 /* 750*1334.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EEC1CC0E6F400D464C8 /* 750*1334.png */; };
+		18592F081CC0E6F400D464C8 /* 1242*2208.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EED1CC0E6F400D464C8 /* 1242*2208.png */; };
+		18592F091CC0E6F400D464C8 /* 商城_未选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EEE1CC0E6F400D464C8 /* 商城_未选中@2x.png */; };
+		18592F0A1CC0E6F400D464C8 /* 商城_选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EEF1CC0E6F400D464C8 /* 商城_选中@2x.png */; };
+		18592F0B1CC0E6F400D464C8 /* 信用卡_未选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF01CC0E6F400D464C8 /* 信用卡_未选中@2x.png */; };
+		18592F0C1CC0E6F400D464C8 /* 信用卡_选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF11CC0E6F400D464C8 /* 信用卡_选中@2x.png */; };
+		18592F0D1CC0E6F400D464C8 /* 羊毛党_未选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF21CC0E6F400D464C8 /* 羊毛党_未选中@2x.png */; };
+		18592F0E1CC0E6F400D464C8 /* 羊毛党_选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF31CC0E6F400D464C8 /* 羊毛党_选中@2x.png */; };
+		18592F0F1CC0E6F400D464C8 /* 羊毛信_未选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF41CC0E6F400D464C8 /* 羊毛信_未选中@2x.png */; };
+		18592F101CC0E6F400D464C8 /* 羊毛信_选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF51CC0E6F400D464C8 /* 羊毛信_选中@2x.png */; };
+		18592F111CC0E6F400D464C8 /* 引导页-4-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF61CC0E6F400D464C8 /* 引导页-4-01.png */; };
+		18592F121CC0E6F400D464C8 /* 引导页-4-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF71CC0E6F400D464C8 /* 引导页-4-02.png */; };
+		18592F131CC0E6F400D464C8 /* 引导页-4-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EF81CC0E6F400D464C8 /* 引导页-4-03.png */; };
+		18592F141CC0E6F400D464C8 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18592EF91CC0E6F400D464C8 /* FifthViewController.swift */; };
+		18592F151CC0E6F400D464C8 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18592EFA1CC0E6F400D464C8 /* FirstViewController.swift */; };
+		18592F161CC0E6F400D464C8 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18592EFB1CC0E6F400D464C8 /* FourthViewController.swift */; };
+		18592F171CC0E6F400D464C8 /* P2P_未选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EFC1CC0E6F400D464C8 /* P2P_未选中@2x.png */; };
+		18592F181CC0E6F400D464C8 /* P2P_选中@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18592EFD1CC0E6F400D464C8 /* P2P_选中@2x.png */; };
+		18592F191CC0E6F400D464C8 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18592EFE1CC0E6F400D464C8 /* PageViewController.swift */; };
+		18592F1A1CC0E6F400D464C8 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18592EFF1CC0E6F400D464C8 /* SecondViewController.swift */; };
+		18592F1B1CC0E6F400D464C8 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18592F001CC0E6F400D464C8 /* ThirdViewController.swift */; };
 		18AAE0571CBC9EBA006A79F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AAE0561CBC9EBA006A79F0 /* AppDelegate.swift */; };
 		18AAE0591CBC9EBA006A79F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AAE0581CBC9EBA006A79F0 /* ViewController.swift */; };
 		18AAE05C1CBC9EBA006A79F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18AAE05A1CBC9EBA006A79F0 /* Main.storyboard */; };
@@ -26,6 +53,33 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18592EE61CC0E6F400D464C8 /* 58*58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "58*58.png"; sourceTree = "<group>"; };
+		18592EE71CC0E6F400D464C8 /* 80*80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80*80.png"; sourceTree = "<group>"; };
+		18592EE81CC0E6F400D464C8 /* 120*120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "120*120.png"; sourceTree = "<group>"; };
+		18592EE91CC0E6F400D464C8 /* 180*180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "180*180.png"; sourceTree = "<group>"; };
+		18592EEA1CC0E6F400D464C8 /* 640*960.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "640*960.png"; sourceTree = "<group>"; };
+		18592EEB1CC0E6F400D464C8 /* 640*1136.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "640*1136.png"; sourceTree = "<group>"; };
+		18592EEC1CC0E6F400D464C8 /* 750*1334.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "750*1334.png"; sourceTree = "<group>"; };
+		18592EED1CC0E6F400D464C8 /* 1242*2208.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1242*2208.png"; sourceTree = "<group>"; };
+		18592EEE1CC0E6F400D464C8 /* 商城_未选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "商城_未选中@2x.png"; sourceTree = "<group>"; };
+		18592EEF1CC0E6F400D464C8 /* 商城_选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "商城_选中@2x.png"; sourceTree = "<group>"; };
+		18592EF01CC0E6F400D464C8 /* 信用卡_未选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "信用卡_未选中@2x.png"; sourceTree = "<group>"; };
+		18592EF11CC0E6F400D464C8 /* 信用卡_选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "信用卡_选中@2x.png"; sourceTree = "<group>"; };
+		18592EF21CC0E6F400D464C8 /* 羊毛党_未选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "羊毛党_未选中@2x.png"; sourceTree = "<group>"; };
+		18592EF31CC0E6F400D464C8 /* 羊毛党_选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "羊毛党_选中@2x.png"; sourceTree = "<group>"; };
+		18592EF41CC0E6F400D464C8 /* 羊毛信_未选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "羊毛信_未选中@2x.png"; sourceTree = "<group>"; };
+		18592EF51CC0E6F400D464C8 /* 羊毛信_选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "羊毛信_选中@2x.png"; sourceTree = "<group>"; };
+		18592EF61CC0E6F400D464C8 /* 引导页-4-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "引导页-4-01.png"; sourceTree = "<group>"; };
+		18592EF71CC0E6F400D464C8 /* 引导页-4-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "引导页-4-02.png"; sourceTree = "<group>"; };
+		18592EF81CC0E6F400D464C8 /* 引导页-4-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "引导页-4-03.png"; sourceTree = "<group>"; };
+		18592EF91CC0E6F400D464C8 /* FifthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		18592EFA1CC0E6F400D464C8 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		18592EFB1CC0E6F400D464C8 /* FourthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		18592EFC1CC0E6F400D464C8 /* P2P_未选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "P2P_未选中@2x.png"; sourceTree = "<group>"; };
+		18592EFD1CC0E6F400D464C8 /* P2P_选中@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "P2P_选中@2x.png"; sourceTree = "<group>"; };
+		18592EFE1CC0E6F400D464C8 /* PageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		18592EFF1CC0E6F400D464C8 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		18592F001CC0E6F400D464C8 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		18AAE0531CBC9EBA006A79F0 /* 04-12swift控件使用.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "04-12swift控件使用.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18AAE0561CBC9EBA006A79F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18AAE0581CBC9EBA006A79F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +133,33 @@
 			children = (
 				18AAE0561CBC9EBA006A79F0 /* AppDelegate.swift */,
 				18AAE0581CBC9EBA006A79F0 /* ViewController.swift */,
+				18592EE61CC0E6F400D464C8 /* 58*58.png */,
+				18592EE71CC0E6F400D464C8 /* 80*80.png */,
+				18592EE81CC0E6F400D464C8 /* 120*120.png */,
+				18592EE91CC0E6F400D464C8 /* 180*180.png */,
+				18592EEA1CC0E6F400D464C8 /* 640*960.png */,
+				18592EEB1CC0E6F400D464C8 /* 640*1136.png */,
+				18592EEC1CC0E6F400D464C8 /* 750*1334.png */,
+				18592EED1CC0E6F400D464C8 /* 1242*2208.png */,
+				18592EEE1CC0E6F400D464C8 /* 商城_未选中@2x.png */,
+				18592EEF1CC0E6F400D464C8 /* 商城_选中@2x.png */,
+				18592EF01CC0E6F400D464C8 /* 信用卡_未选中@2x.png */,
+				18592EF11CC0E6F400D464C8 /* 信用卡_选中@2x.png */,
+				18592EF21CC0E6F400D464C8 /* 羊毛党_未选中@2x.png */,
+				18592EF31CC0E6F400D464C8 /* 羊毛党_选中@2x.png */,
+				18592EF41CC0E6F400D464C8 /* 羊毛信_未选中@2x.png */,
+				18592EF51CC0E6F400D464C8 /* 羊毛信_选中@2x.png */,
+				18592EF61CC0E6F400D464C8 /* 引导页-4-01.png */,
+				18592EF71CC0E6F400D464C8 /* 引导页-4-02.png */,
+				18592EF81CC0E6F400D464C8 /* 引导页-4-03.png */,
+				18592EF91CC0E6F400D464C8 /* FifthViewController.swift */,
+				18592EFA1CC0E6F400D464C8 /* FirstViewController.swift */,
+				18592EFB1CC0E6F400D464C8 /* FourthViewController.swift */,
+				18592EFC1CC0E6F400D464C8 /* P2P_未选中@2x.png */,
+				18592EFD1CC0E6F400D464C8 /* P2P_选中@2x.png */,
+				18592EFE1CC0E6F400D464C8 /* PageViewController.swift */,
+				18592EFF1CC0E6F400D464C8 /* SecondViewController.swift */,
+				18592F001CC0E6F400D464C8 /* ThirdViewController.swift */,
 				18AAE05A1CBC9EBA006A79F0 /* Main.storyboard */,
 				18AAE05D1CBC9EBA006A79F0 /* Assets.xcassets */,
 				18AAE05F1CBC9EBA006A79F0 /* LaunchScreen.storyboard */,
@@ -177,8 +258,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18592F131CC0E6F400D464C8 /* 引导页-4-03.png in Resources */,
+				18592F041CC0E6F400D464C8 /* 180*180.png in Resources */,
+				18592F0C1CC0E6F400D464C8 /* 信用卡_选中@2x.png in Resources */,
+				18592F051CC0E6F400D464C8 /* 640*960.png in Resources */,
+				18592F011CC0E6F400D464C8 /* 58*58.png in Resources */,
+				18592F0A1CC0E6F400D464C8 /* 商城_选中@2x.png in Resources */,
 				18AAE0611CBC9EBA006A79F0 /* LaunchScreen.storyboard in Resources */,
+				18592F081CC0E6F400D464C8 /* 1242*2208.png in Resources */,
+				18592F0B1CC0E6F400D464C8 /* 信用卡_未选中@2x.png in Resources */,
+				18592F181CC0E6F400D464C8 /* P2P_选中@2x.png in Resources */,
+				18592F091CC0E6F400D464C8 /* 商城_未选中@2x.png in Resources */,
+				18592F0D1CC0E6F400D464C8 /* 羊毛党_未选中@2x.png in Resources */,
 				18AAE05E1CBC9EBA006A79F0 /* Assets.xcassets in Resources */,
+				18592F121CC0E6F400D464C8 /* 引导页-4-02.png in Resources */,
+				18592F0E1CC0E6F400D464C8 /* 羊毛党_选中@2x.png in Resources */,
+				18592F021CC0E6F400D464C8 /* 80*80.png in Resources */,
+				18592F031CC0E6F400D464C8 /* 120*120.png in Resources */,
+				18592F0F1CC0E6F400D464C8 /* 羊毛信_未选中@2x.png in Resources */,
+				18592F101CC0E6F400D464C8 /* 羊毛信_选中@2x.png in Resources */,
+				18592F171CC0E6F400D464C8 /* P2P_未选中@2x.png in Resources */,
+				18592F111CC0E6F400D464C8 /* 引导页-4-01.png in Resources */,
+				18592F061CC0E6F400D464C8 /* 640*1136.png in Resources */,
+				18592F071CC0E6F400D464C8 /* 750*1334.png in Resources */,
 				18AAE05C1CBC9EBA006A79F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,8 +299,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18592F141CC0E6F400D464C8 /* FifthViewController.swift in Sources */,
 				18AAE0591CBC9EBA006A79F0 /* ViewController.swift in Sources */,
 				18AAE0571CBC9EBA006A79F0 /* AppDelegate.swift in Sources */,
+				18592F191CC0E6F400D464C8 /* PageViewController.swift in Sources */,
+				18592F1A1CC0E6F400D464C8 /* SecondViewController.swift in Sources */,
+				18592F151CC0E6F400D464C8 /* FirstViewController.swift in Sources */,
+				18592F1B1CC0E6F400D464C8 /* ThirdViewController.swift in Sources */,
+				18592F161CC0E6F400D464C8 /* FourthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,6 +494,7 @@
 				18AAE0721CBC9EBA006A79F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18AAE0731CBC9EBA006A79F0 /* Build configuration list for PBXNativeTarget "04-12swift控件使用UITests" */ = {
 			isa = XCConfigurationList;
@@ -394,6 +503,7 @@
 				18AAE0751CBC9EBA006A79F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
